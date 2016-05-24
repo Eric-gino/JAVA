@@ -1,1 +1,1 @@
-leaarn java a little everyday!
+learn java a little everyday!
